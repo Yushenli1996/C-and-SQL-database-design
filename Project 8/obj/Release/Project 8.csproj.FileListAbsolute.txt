@@ -1,0 +1,10 @@
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\bin\Release\Project 8.exe.config
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\bin\Release\Project 8.exe
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\bin\Release\Project 8.pdb
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\obj\Release\Project 8.csprojResolveAssemblyReference.cache
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\obj\Release\Project_8.Form1.resources
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\obj\Release\Project_8.Properties.Resources.resources
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\obj\Release\Project 8.csproj.GenerateResource.cache
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\obj\Release\Project 8.csproj.CoreCompileInputs.cache
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\obj\Release\Project 8.exe
+C:\Users\Yushen Li\source\repos\Project 8\Project 8\obj\Release\Project 8.pdb
